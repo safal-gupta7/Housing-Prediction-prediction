@@ -1,0 +1,14 @@
+Some of the hyperparameters of the random forest algorithm is here:
+
+n_estimators -> No. of trees in the model.
+
+max_depth -> maximum depth of a tree.
+
+min_samples_split -> Minimum number of samples required to split an internal node.
+
+min_samples_leaf  ->  Minimum number of samples allowed in a leaf. Increasing this forces 
+                      leaves to contain more observations and can reduce overfitting.
+
+max_features  -> Number/fraction of features considered when looking for a split.
+                 This is particularly important for Random Forest because Random 
+                 Forest's diversity comes partly from considering different subsets of features.
