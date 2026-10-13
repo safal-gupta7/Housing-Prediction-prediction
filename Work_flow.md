@@ -1,4 +1,4 @@
-1. Clean dataset                 ← do this properly
+1. Clean dataset              
         ↓
 2. Exploratory Data Analysis
         ↓
