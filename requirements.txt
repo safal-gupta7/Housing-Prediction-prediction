@@ -1,0 +1,7 @@
+All the tech stacked required to make this project.
+
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter

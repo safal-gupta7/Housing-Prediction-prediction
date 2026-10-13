@@ -4,9 +4,9 @@
         ↓
 3. Train/validation split
         ↓
-4. Linear Regression             ← you are here
+4. Linear Regression            
         ↓
-5. Evaluate on validation data   ← NEXT
+5. Evaluate on validation data  
         ↓
 6. Understand under/overfitting
         ↓
@@ -33,33 +33,7 @@
 17. Create submission.csv
 
 
-
-
-
-1. Dataset structure
-       ↓
-2. Missing values
-       ↓
-3. Duplicate values
-       ↓
-4. Histograms ← YOU ARE HERE
-       ↓
-5. Outlier analysis
-       ↓
-6. Feature ↔ target relationships
-       ↓
-7. Feature ↔ feature correlations
-       ↓
-8. Decide preprocessing
-       ↓
-9. Train/test split
-       ↓
-10. Baseline model
-       ↓
-11. Evaluate
-       ↓
-12. Improve/tune
-
+The meaning of all the features is given below.
 
 | Column | Meaning | What it contains |
 |---|---|---|
